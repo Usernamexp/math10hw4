@@ -7,7 +7,7 @@ import altair as alt
 st.title('a title')
 st.markdown('Xin Peng')
 
-f = st.file_uploader('upload a csv file',type:=['csv'])
+f = st.file_uploader('upload a csv file',type=['csv'])
 def cbn(c):
     try:
         pd.to_numeric(df[c])
