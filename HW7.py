@@ -1,4 +1,3 @@
-scikit-learn==0.24.2
 import streamlit as st
 import numpy as np
 import pandas as pd
