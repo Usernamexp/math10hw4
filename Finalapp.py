@@ -31,7 +31,7 @@ st.title('Final Project')
 st.markdown('**Xin Peng**')
 
 st.write('The app is used to analyze a dataset that contains a number of measurements taken on a random sample of 252 American adult men.')
-st.markdown('Dataset source: http://crunchit3.bfwpub.com/psls4e?dataset=ex02-03.txt')
+st.markdown('Dataset source: https://crunchit3.bfwpub.com/psls4e?dataset=ex17-46.txt')
 
 
 source = pd.read_csv('datatable.csv') # clean dataframe
